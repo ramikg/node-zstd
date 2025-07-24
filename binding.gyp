@@ -30,7 +30,7 @@
         ],
         [
           "OS=='linux'", {
-            "cflags_cc": [ "-O2", "-std=c++17", "-flto" ]
+            "cflags_cc": [ "-O2", "-std=c++20", "-flto" ]
           }
         ]
       ]
